@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+Name      : Milan Bui
+Class     : CS 2600.01
+Assignment: Homework 2
+Generated : 21 September 2020 @ 04:40PM
+Directory to be treed: /home
+------------------------------------------------------------------------------
+
+/home
+└── student
+    ├── Desktop
+    ├── Documents
+    ├── Downloads
+    ├── homework2
+    │   ├── homework2.bash
+    │   └── homework2_sample_report.txt
+    ├── Music
+    ├── Pictures
+    ├── Public
+    ├── Templates
+    └── Videos
+
+10 directories, 2 files

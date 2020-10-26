@@ -1,2 +1,5 @@
 # CS2600
-Assignments for CS 2600 Fall 2020
+Assignments  
+  
+Course  : Systems Programming   
+Semester: Fall 2020
